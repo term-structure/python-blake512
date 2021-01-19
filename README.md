@@ -2,7 +2,7 @@
 
 blake512 is a Python implementation for the BLAKE-1 512 bits hashing algorithm
 
-Special thank to the SPHINCS project for the C implementation.
+Special thanks to the SPHINCS project for the C implementation.
 
 ## Installation
 
